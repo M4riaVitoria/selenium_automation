@@ -17,7 +17,7 @@ pyautogui.press("enter")
 pyautogui.press("tab")
 pyautogui.press("enter")
 pyautogui.press("tab")
-pyautogui.press("enter")
+pyautogui.press("enterrrr")
 
 pyautogui.press("tab")
 pyautogui.press("enterrrr")
